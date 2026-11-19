@@ -1,0 +1,1 @@
+After opening this project in Unity with WebGL Build Support installed, run Underpin > Build WebGL. Keep the generated WebGL files in this folder for submission. Do not submit this placeholder as the WebGL build.
